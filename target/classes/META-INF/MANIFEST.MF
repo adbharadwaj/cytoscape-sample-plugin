@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.cytoscape.sample-create-network
+Bundle-Name: Sample App - Create Network
+Bundle-Version: 1.0
+Built-By: anuragsharma
+Bundle-ManifestVersion: 2
+Bnd-LastModified: 1490465316026
+Bundle-Activator: org.cytoscape.sample.internal.CyActivator
+Import-Package: javax.swing,org.cytoscape.application.swing;version="[
+ 3.0,4)",org.cytoscape.model;version="[3.0,4)",org.cytoscape.service.u
+ til;version="[3.0,4)",org.cytoscape.session;version="[3.0,4)",org.cyt
+ oscape.view.model;version="[3.0,4)",org.cytoscape.work;version="[3.0,
+ 4)",org.json,org.osgi.framework;version="[1.5,2)"
+Created-By: Apache Maven Bundle Plugin
+Tool: Bnd-1.15.0
+Build-Jdk: 1.8.0_101
+

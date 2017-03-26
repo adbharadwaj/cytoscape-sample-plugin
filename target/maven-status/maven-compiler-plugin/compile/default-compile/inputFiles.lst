@@ -1,3 +1,4 @@
-/Users/anuragsharma/Documents/workspace/parent/sample-create-network-simple/src/main/java/org/cytoscape/sample/internal/CreateNetworkTaskFactory.java
-/Users/anuragsharma/Documents/workspace/parent/sample-create-network-simple/src/main/java/org/cytoscape/sample/internal/CreateNetworkTask.java
-/Users/anuragsharma/Documents/workspace/parent/sample-create-network-simple/src/main/java/org/cytoscape/sample/internal/CreateNetworkApp.java
+/Users/anuragsharma/Documents/workspace/parent/sample-create-network/src/main/java/org/cytoscape/sample/internal/MyNodeViewContextMenuFactory.java
+/Users/anuragsharma/Documents/workspace/parent/sample-create-network/src/main/java/org/cytoscape/sample/internal/CreateNetworkTask.java
+/Users/anuragsharma/Documents/workspace/parent/sample-create-network/src/main/java/org/cytoscape/sample/internal/CyActivator.java
+/Users/anuragsharma/Documents/workspace/parent/sample-create-network/src/main/java/org/cytoscape/sample/internal/CreateNetworkTaskFactory.java
