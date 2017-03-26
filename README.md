@@ -29,3 +29,5 @@ This app posts a graph to graphspace using REST API and save the network locally
 9. This will upload the graph on graphspace and save the graph locally in a file named **network-output.json**
 
 <img src="docs/Screen Shot 2017-03-26 at 11.29.22 AM.png">
+
+<img src="docs/Screen Shot 2017-03-26 at 11.32.10 AM.png">
