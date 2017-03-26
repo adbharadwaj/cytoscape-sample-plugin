@@ -10,6 +10,9 @@ This app posts a graph to graphspace using REST API and save the network locally
 
 3. Download Jar file from [here](https://github.com/anu0012/cytoscape-sample-plugin/blob/master/target/sample-create-network-1.0.jar)
 
+**Note** - First you need to change the username and password in CreateNetworkTask.java file. You can also change the location where you want to save the json file and accordingly make changes in the Process instance in CreateNetworkTask.java file.
+After making the required changes install the project from maven using eclipse to get the .jar file. For more instructions click [here](http://wiki.cytoscape.org/Cytoscape_3/AppDeveloper/Cytoscape_App_Ladder/BuildAndRunSampleApp)
+
 4. Then navigate to the folder /Users/[username]/CytoscapeConfiguration/3/apps/installed and paste the downloaded jar file there.
 
 5. Then open the cytoscape app using **sh /Applications/Cytoscape_v3.4.0/cytoscape.sh** in terminal and click on Apps in the menu bar and select **Create Network**
