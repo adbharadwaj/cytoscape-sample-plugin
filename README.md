@@ -3,6 +3,9 @@ This app posts a graph to graphspace using REST API and save the network locally
 
 <img src="docs/Screen Shot 2017-03-26 at 11.29.54 AM.png">
 
+# NOTE
+GraphSpace Java library based on new REST API [link](https://github.com/anu0012/graphspace-java-client)
+
 # How to use
 1. Cytoscape requires Java so ensures that Java is installed in your system.
 
